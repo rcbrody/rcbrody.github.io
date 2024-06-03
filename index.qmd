@@ -7,9 +7,11 @@ about:
   image-shape: rectangle
   image-width: 20em
   links:
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/rcbrody
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:rachelbrody@ucsb.edu
 
 ---
