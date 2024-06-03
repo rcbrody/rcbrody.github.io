@@ -1,16 +1,16 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rachel Brody",
+    "section": "",
+    "text": "Hi! Welcome!\nI created this website to share my interests, skills, and experiences, academic, professional, and otherwise.\n##About me Born and raised in Half Moon Bay, CA.\n##Education BS in Environmental Studies (2024) | University of California, Santa Barbara Minor in Latin American and Iberian Studies (2024) | University of California, Santa Barbara"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "rcbrody.github.io",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]

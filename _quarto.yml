@@ -3,18 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "rcbrody.github.io"
   navbar:
+    title: "Rachel Brody"
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Wildlands.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
-    toc: true
+    toc: false
+    page-layout: full
 
 editor: visual
 

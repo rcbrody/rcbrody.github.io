@@ -1,11 +1,26 @@
 ---
-title: "rcbrody.github.io"
+title: "Rachel Brody"
+image: media/headshot.jpg
+toc: false
+about: 
+  template: solana
+  image-shape: rectangle
+  image-width: 20em
+  links:
+    - text: GitHub
+      href: https://github.com/rcbrody
+    - text: Email
+      href: mailto:rachelbrody@ucsb.edu
+
 ---
 
-This is a Quarto website.
+Hi! Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I created this website to share my interests, skills, and experiences, academic, professional, and otherwise.
 
-```{r}
-1 + 1
-```
+##About me
+Born and raised in Half Moon Bay, CA.
+
+##Education
+BS in Environmental Studies (2024) | University of California, Santa Barbara
+Minor in Latin American and Iberian Studies (2024) | University of California, Santa Barbara
