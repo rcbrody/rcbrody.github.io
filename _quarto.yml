@@ -19,7 +19,7 @@ page-footer:
 format:
   html:
     mainfont: Cormorant
-    theme: styles.scss
+    theme: style.scss
     toc: false
     page-layout: full
 
