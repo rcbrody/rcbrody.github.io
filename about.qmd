@@ -1,9 +1,4 @@
 ---
-title: "Conservation Planning"
+title: "Internships"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```

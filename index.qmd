@@ -4,7 +4,7 @@ title: "Rachel Brody"
 image: images/websitephoto.jpg
 toc: false
 about:
-  template: trestles
+  template: solana
   image-shape: rectangle
   image-width: 20em
   links:
@@ -16,14 +16,14 @@ about:
       href: mailto:rachelbrody@ucsb.edu
 ---
 
-Hi! Welcome!
+## Hi! Welcome!
 
 I created this website to share my interests, skills, and experiences, academic, professional, and otherwise.
 
-##About me
+### About me
 
-Born and raised in Half Moon Bay, CA.
+I was born and raised in Half Moon Bay, CA. My love of the outdoors is what lead me to pursue a degree in environmental studies. I have many interests within the field of environmental studies, including wildlife conservation, glaciers, and climate change. In my free time, you can find me outside, hiking, running, playing frisbe with my dog, surfing, or backpacking. Or passionatley wacthign basketball! Go Warrior
 
-##Education
+### Education
 
 BS in Environmental Studies (2024) \| University of California, Santa Barbara Minor in Latin American and Iberian Studies (2024) \| University of California, Santa Barbara

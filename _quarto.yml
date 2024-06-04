@@ -8,13 +8,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - Wildlands.qmd
-
+      - href: about.qmd
+        text: Interships
+      - href: Wildlands.qmd
+        text: Wildlands Field Studies Program
+      - href: otherskills.qmd
+        text: Other Skills
+page-footer:
+    left: Updated June 5, 2024
 format:
   html:
-    theme: sandstone
-    css: styles.css
+    mainfont: Cormorant
+    theme: styles.scss
     toc: false
     page-layout: full
 
