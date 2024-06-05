@@ -6,45 +6,66 @@ I completed a 6 week immersive field study course in Northern Chilean Patagonia 
 
 Some of the skills/aspects I am most proud of include:
 
--   observations and field notes
--   planning ahead and problem solving on the spot
+<br>
 
-::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 0.5em;"}
-![](images/beach.jpeg){group="my-gallery"}
+-   observational skills and field notes
 
-![](images/sketch.jpeg){group="my-gallery"}
+-   planning ahead and problem solving
 
-![](images/fox.jpeg){group="my-gallery"}
+<br>
+
+::: {layout-ncol="3"}
+![](images/beach.jpeg)
+
+![](images/sketch.jpeg)
+
+![](images/fox.jpeg)
 :::
+
+<br>
 
 -   scientific process and data collection
+
 -   backpacking, camping, and wilderness safety skills
 
-::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 0.5em;"}
-![](images/cochamobackpacking.jpeg){group="gallery-2"}
+<br>
 
-![](images/tephra.jpeg){group="gallery-2"}
+::: {layout-ncol="3"}
+![](images/cochamobackpacking.jpeg)
 
-![](images/data.jpeg){group="gallery-2"}
+![](images/tephra.jpeg)
+
+![](images/data.jpeg)
 :::
 
--   engaging with Patagonian culture
--   learning about broad environmental concepts like succession, volcanoes, glaciers, and climate, and applying them locally to the Los Lagos region of Chile
+<br>
 
-::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 0.5em;"}
-![](images/wildlands.jpg){group="gallery-3"}
+-   engaging with Patagonian culture and people
 
-![](images/lamb.jpeg){group="gallery-3"}
+-   learning about broad environmental concepts like succession, volcanoes, glaciers, and climate, and applying them locally
 
-![](images/shucking.jpeg){group="gallery-3"}
+<br>
+
+::: {layout-ncol="3"}
+![](images/wildlands.jpg)
+
+![](images/lamb.jpeg)
+
+![](images/shucking.jpeg)
 :::
+
+<br>
 
 -   introspection and self-reflection
 
-::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 0.5em;"}
-![](images/horses.jpeg){group="gallery-4"}
+-   meeting like minded peers also entering the field of environmental studies
 
-![](images/20240202_132008_2C5D20.jpeg){group="gallery-4"}
+<br>
 
-![](images/waterfall.jpeg){group="gallery-4"}
+::: {layout-ncol="2"}
+![](images/horses.jpeg)
+
+![](images/waterfall.jpeg)
 :::
+
+![](images/20240202_132008_2C5D20.jpeg)

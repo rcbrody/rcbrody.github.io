@@ -26,8 +26,7 @@ I was born and raised in Half Moon Bay, CA, but have spent that last four years 
 
 ### Education
 
-{{< fa graduation-cap title="dark graduation cap" >}} BS in Environmental Studies (2024) \| University of California, Santa Barbara
+{{< fa graduation-cap title="dark graduation cap" >}} BS in Environmental Studies (with honors) (2024) \| University of California, Santa Barbara
 
 {{< fa graduation-cap title="dark graduation cap" >}} Minor in Latin American and Iberian Studies (2024) \| University of California, Santa Barbara
 
-Completion of UCSB College of Letters and Sciences Honors Program (2024)\| University of California, Santa Barbara
