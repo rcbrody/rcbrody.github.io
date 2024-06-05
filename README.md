@@ -21,3 +21,5 @@ Description: repo for quarto webiste created for ENV193DS choose your assignment
 ── _quarto.yml    # sitewide navegation, theme, font
 
 # Rendered Output
+
+https://rcbrody.github.io/
