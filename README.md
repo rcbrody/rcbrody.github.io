@@ -2,21 +2,22 @@
 Description: repo for quarto webiste created for ENV193DS choose your assignment
 # Data and file overview
 
-├── rcbrody.github.io.Rproj
+── rcbrody.github.io.Rproj
 
-├── images           # all images
-├── docs
+── images           # all images
 
-├── index.qmd       # landing page of website
+── docs
 
-├── about.qmd        # intership page of website
+── index.qmd       # landing page of website
 
-├── otherskills.qmd   # other skills page of website
+── about.qmd        # intership page of website
 
-├── Wildlands.qmd    # wildlands studies page of website
+── otherskills.qmd   # other skills page of website
 
-├── styles.scss      #scss custom style settings
+── Wildlands.qmd    # wildlands studies page of website
 
-├── _quarto.yml    # sitewide navegation, theme, font
+── styles.scss      #scss custom style settings
+
+── _quarto.yml    # sitewide navegation, theme, font
 
 # Rendered Output
