@@ -1,0 +1,29 @@
+---
+title: "Other Skills"
+---
+
+### Coding
+
+Although my coding journey is just beginning, I have already become apt at analyzing data, creating figures, and building websites (like this one!) in Rstudio. I know I have just scratched the surface of coding possibilities, but I have developed the foundational understanding and resourcefulness to learn new coding skills and I am excited to grow them! Here is an example of a figure I have made.
+
+![](images/examplefigure.png) <br> <br>
+
+### Bilingualism
+
+I am fluent in English and Spanish. My mother is a native Spanish speaker so I started speaking Spanish from a very early age. I also went to a Spanish immersion elementary school, so I was able to develop Spanish reading and writing proficiency. Being bilingual has enabled me to connect with a broader range of people and expose me to more ideas and cultures. This was part of what inspired me to pursue a minor in Latin American and Iberian Studies.
+
+<br>
+
+### Diving
+
+I am PADI Advanced Open Water Certified and AAUS Scientific Diving Certified. I also love to dive recreationally!
+
+### ![](images/IMG_0877.jpeg)
+
+### Writing
+
+I have attached some pieces that showcase my writing.
+
+This is a research paper I wrote about the role of bilingual education in the Chicano struggle for educational equity for a class called History of Chicanos that I took at UCSB. [read](HIST168BPaper.pdf)
+
+This is a more professional writing example. I took a conservation planning class at UCSB and we worked for 10 weeks in groups to create a conservation plan. Ours focuses on conserving Giant Sea Bass in California kelp forests. This isn't all my writing as I worked with 4 other people, but most of it is and it exemplifies my ability to collaborate with others. [read](ConservationPlan.S24.GiantSeaBass.pdf)

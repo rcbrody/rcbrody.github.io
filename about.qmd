@@ -1,26 +1,49 @@
 ---
 title: "Internships"
 ---
-LTER Laboratory Technician (April 2023-December 2023)
 
-My primary task was to identify and tag organisms in underwater photos of slates at various long-term research sites in the Santa Barbara Channel. The aim of the project was to track ecological change in the marine environment over time.
+### Santa Barbara Long Term Ecological Research Intern (April 2023 - December 2023)
 
+::: columns
+::: {.column width="30%"}
+![](https://i0.wp.com/algaeplanet.com/wp-content/uploads/deep-sea-floor.jpg?ssl=1){fig-align="left" width="290"}
+:::
 
+::: {.column width="70%"}
+<br> <br>
 
+My primary task was to identify and tag organisms in photos of the sea floor at various long-term research sites in the Santa Barbara Channel. I worked primarily remotely using ViQi AI software to do this.
+:::
+:::
 
-Nursery Intern at the Southern African Foundation for the Conservation of Coastal Birds (January 2020-March 2020)
+ <br> <br> 
+ 
+### Nursery Intern at the Southern African Foundation for the Conservation of Coastal Birds (January 2020 - March 2020)
+
+::: columns
+::: {.column width="70%"}
+<br> <br> <br>
 
 I raised African penguin chicks that had been abandoned or hurt. Daily tasks included preparing food, feeding, cleaning, helping with vet checks, giving medication, and generally monitoring health and behavior. I worked primarily alone in the nursery. The hardest part was to not coddle the adorable chicks because that would reduce their chances of being able to survive in the wild.
+:::
 
+::: {.column width="30%"}
+![](images/IMG_2474.jpeg){fig-align="right" width="233"}
+:::
+:::
 
+<br> <br>
 
+### Songbird Intern at the Santa Barbara Wildlife Care Network (January 2022 - April 2022)
 
+::: columns
+::: {.column width="30%"}
+![](images/WCN.png){fig-align="left" width="233"}
+:::
 
-Songbird Intern at the Santa Barbara Wildlife Care Network
+::: {.column width="70%"}
+<br> <br> <br>
 
-I learned so much from working alongside long time bird rehabilitators. I helped feed, give medication, and clean enclosures for wounded or sick birds.
-
-
-
-
-
+I learned so much from working alongside long time bird rehabilitators not only about how to care for birds, but also about the native bird species in the area, their role in the ecosystem, and threats that they currently face. I helped feed, give medication, and clean enclosures for wounded or sick songbirds that were admitted to the facility.
+:::
+:::
